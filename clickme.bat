@@ -1,1 +1,1 @@
-shutdown -a -t 100
+shutdown -a -t 200
